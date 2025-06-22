@@ -23,7 +23,7 @@ public class Quiz {
 			JOptionPane.showMessageDialog(null, "Please choose valid Mode");
 		}
 		
-		int count = 2;
+		int count = 10;
 		Random random = new Random();
 		int total = count;
 		
