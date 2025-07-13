@@ -13,7 +13,7 @@ A simple Java Swing-based quiz app that challenges users with random math questi
 
 ## Demo Video
 Click here to view/Download the Video 
-[(https://drive.google.com/file/d/1_aHf0czy4N3B52u4iQRxufktXsit3uqb/view?usp=sharing]
+[https://drive.google.com/file/d/1_aHf0czy4N3B52u4iQRxufktXsit3uqb/view?usp=sharing]
 ## Note
 You can change the no. of questions in quiz by changing the count variable in the code
 ## Author
